@@ -15,7 +15,7 @@ end
 -- CREDIT Kavo Libary
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("RewarzHub", "GrapeTheme") 
+local Window = Library.CreateLib("King legency", "GrapeTheme") 
 
 -- auto farm
 local Main = Window:NewTab("Main")
